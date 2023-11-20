@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "774768252487",
+    "firebase_url": "https://codexia--learning-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "codexia--learning",
+    "storage_bucket": "codexia--learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774768252487:android:385e5967e57e150f2bc362",
+        "android_client_info": {
+          "package_name": "com.codexia.codexia_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774768252487-ovfpuuc1914p8btap66bdkgjg5fpobmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codexia.codexia_learning",
+            "certificate_hash": "580f5ad6b2ff7b9a4e02a8e3657d55b3d6d9795a"
+          }
+        },
+        {
+          "client_id": "774768252487-c1j5gj068m8b88ee6pobimpfggtj35gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB5fAisjBskO0sCWK2syuVMUQGva6GPFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774768252487-c1j5gj068m8b88ee6pobimpfggtj35gg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774768252487-15nvvs0a3h3tplndjhq6ko682s9gkppk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codexia.codexiaLearning"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774768252487:android:d51e75a2b6a8316d2bc362",
+        "android_client_info": {
+          "package_name": "com.codexia.codexia_learning_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774768252487-sh5i6bcl2116790tj1s450ro817rht6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codexia.codexia_learning_admin",
+            "certificate_hash": "580f5ad6b2ff7b9a4e02a8e3657d55b3d6d9795a"
+          }
+        },
+        {
+          "client_id": "774768252487-c1j5gj068m8b88ee6pobimpfggtj35gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB5fAisjBskO0sCWK2syuVMUQGva6GPFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774768252487-c1j5gj068m8b88ee6pobimpfggtj35gg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774768252487-15nvvs0a3h3tplndjhq6ko682s9gkppk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codexia.codexiaLearning"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774768252487:android:1835d832b5a5cf3a2bc362",
+        "android_client_info": {
+          "package_name": "com.example.firebase_configure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774768252487-c1j5gj068m8b88ee6pobimpfggtj35gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB5fAisjBskO0sCWK2syuVMUQGva6GPFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774768252487-c1j5gj068m8b88ee6pobimpfggtj35gg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774768252487-15nvvs0a3h3tplndjhq6ko682s9gkppk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codexia.codexiaLearning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
