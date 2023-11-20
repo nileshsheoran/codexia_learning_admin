@@ -1,10 +1,10 @@
 import 'package:codexia_learning_admin/chapter/model/chapter_model.dart';
 import 'package:codexia_learning_admin/chapter/service/chapter_service.dart';
-import 'package:codexia_learning_admin/chapter/shared/colors_const.dart';
 import 'package:codexia_learning_admin/chapter/shared/string_const.dart';
 import 'package:codexia_learning_admin/chapter/ui/chapter_add_screen.dart';
 import 'package:codexia_learning_admin/chapter/ui/chapter_update_screen.dart';
 import 'package:codexia_learning_admin/chapter/ui/chapter_detail_screen.dart';
+import 'package:codexia_learning_admin/shared/colour_const.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
 
@@ -50,7 +50,7 @@ class ShowChapterScreenState extends State<ShowChapterScreen> {
             Icons.arrow_back,
           ),
         ),
-        backgroundColor: ColorsConst.blueColor,
+        backgroundColor: ColourConst.blue,
       ),
       body: StreamBuilder(
         stream: widget.chapterService.getChapterStream(widget.courseId),

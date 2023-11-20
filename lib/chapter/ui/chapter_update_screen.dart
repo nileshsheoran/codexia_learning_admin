@@ -1,7 +1,7 @@
 import 'package:codexia_learning_admin/chapter/model/chapter_model.dart';
 import 'package:codexia_learning_admin/chapter/service/chapter_service.dart';
-import 'package:codexia_learning_admin/chapter/shared/colors_const.dart';
 import 'package:codexia_learning_admin/chapter/shared/string_const.dart';
+import 'package:codexia_learning_admin/shared/colour_const.dart';
 import 'package:flutter/material.dart';
 
 class ChapterUpdateScreen extends StatefulWidget {
@@ -51,7 +51,7 @@ class _ChapterUpdateScreenState extends State<ChapterUpdateScreen> {
             Icons.arrow_back,
           ),
         ),
-        backgroundColor: ColorsConst.purpleColor,
+        backgroundColor: ColourConst.deepPurple,
       ),
       body: Padding(
         padding: const EdgeInsets.all(20.0),

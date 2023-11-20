@@ -1,7 +1,7 @@
 import 'package:codexia_learning_admin/chapter/model/chapter_model.dart';
-import 'package:codexia_learning_admin/chapter/shared/colors_const.dart';
 import 'package:codexia_learning_admin/quiz/screen/quiz_show_screen.dart';
 import 'package:codexia_learning_admin/quiz/service/quiz_service.dart';
+import 'package:codexia_learning_admin/shared/colour_const.dart';
 import 'package:flutter/material.dart';
 
 class ChapterDetailScreen extends StatefulWidget {
@@ -19,7 +19,7 @@ class _ChapterDetailScreenState extends State<ChapterDetailScreen> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          backgroundColor: ColorsConst.purpleColor,
+          backgroundColor: ColourConst.deepPurple,
           actions: [
             IconButton(
               onPressed: () {

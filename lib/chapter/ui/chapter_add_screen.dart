@@ -1,7 +1,7 @@
 import 'package:codexia_learning_admin/chapter/model/chapter_model.dart';
 import 'package:codexia_learning_admin/chapter/service/chapter_service.dart';
-import 'package:codexia_learning_admin/chapter/shared/colors_const.dart';
 import 'package:codexia_learning_admin/chapter/shared/string_const.dart';
+import 'package:codexia_learning_admin/shared/colour_const.dart';
 import 'package:flutter/material.dart';
 
 class AddChapterScreen extends StatelessWidget {
@@ -34,7 +34,7 @@ class AddChapterScreen extends StatelessWidget {
             Icons.arrow_back,
           ),
         ),
-        backgroundColor: ColorsConst.greenColor,
+        backgroundColor: ColourConst.blue
       ),
       body: Padding(
         padding: const EdgeInsets.all(20.0),
